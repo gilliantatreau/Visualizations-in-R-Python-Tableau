@@ -2,8 +2,10 @@
 Tree map, area chart, and stacked area chart each created using Python, R, and Tableau for expenditures data. Each chart type was recreated using the same data for each tool. Final visualizations displayed in pdf file. 
 
 ## How to Run Code Locally
-- Run Python Code file using Jupyter Notebook server (such as Anaconda) for Python code
-- Run R code file using RStudio
+- Clone repo
+- Go into repository on local device
+- Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
+- Run R code file using preferred R IDE, such as RStudio
 
 ## Libraries Used
 ### R Code
